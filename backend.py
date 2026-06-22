@@ -72,8 +72,12 @@ User Question:
 Rules:
 1. Use only the retrieved context.
 2. Do not use outside knowledge.
-3. If answer is not present, say:
+3. Cite the page number(s) used.
+4. If the answer is not available, say:
    "I could not find this information in the uploaded PDF."
+
+Example:
+"The mean is the arithmetic average of a set of values. [Page 12]"
 
 Answer:
 """
