@@ -1,0 +1,14 @@
+streamlit==1.49.0
+python-dotenv==1.1.1
+
+langchain==0.3.27
+langchain-community==0.3.27
+langchain-openai==0.2.14
+langchain-text-splitters==0.3.11
+
+faiss-cpu
+
+pypdf==5.9.0
+
+openai==1.109.1
+tiktoken==0.11.0
